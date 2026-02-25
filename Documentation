@@ -1,11 +1,11 @@
- OTP Generator (Python)
+### OTP Generator (Python)
 
- Project Overview
+## Project Overview
 
-This is a simple **OTP (One-Time Password) Generator** written in Python.
-The program generates a 4-digit numeric OTP when the user enters a valid command (`send` or `s`).
+* This is a simple **OTP (One-Time Password) Generator** written in Python.
+* The program generates a 4-digit numeric OTP when the user enters a valid command (`send` or `s`).
 
-It uses Python's built-in libraries:
+* It uses Python's built-in libraries:
 
 * `random` – for generating random values
 * `string` – for accessing digit characters
@@ -34,7 +34,7 @@ It uses Python's built-in libraries:
 
 ---
 
-## 🧠 Code Structure
+##  Code Structure
 
 ### Import Statements
 
@@ -90,7 +90,7 @@ while True:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1: Install Python
 
@@ -130,9 +130,9 @@ YOUR OTP IS 4829
 
 ---
 
-## 🔒 Security Note
+## Security Note
 
-⚠️ This OTP generator:
+This OTP generator:
 
 * Generates simple 4-digit numeric OTP
 * Is suitable for learning purposes only
@@ -147,7 +147,7 @@ For production-grade security:
 
 ---
 
-## 🚀 Possible Improvements
+## Possible Improvements
 
 * Allow user to choose OTP length
 * Add alphanumeric OTP option
@@ -157,7 +157,7 @@ For production-grade security:
 
 ---
 
-## 📂 Project Type
+## Project Type
 
 * Beginner Python Project
 * CLI-Based Utility Program
